@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListView Custom</string>
+    <string name="productMessage">Seleccione un producto</string>
+</resources>
